@@ -38,9 +38,6 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=ShriyanshiSrivastava&show_icons=true&theme=radical&line_height=34">
  
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShriyanshiSrivastava&theme=radical">
- <!--
- 
--->
 </p>
 
 <p align = "center">
